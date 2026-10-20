@@ -2,32 +2,11 @@
 
 _Last updated: 20 October 2026_
 
-PhotoOne is a photo-library cleaner. All photo analysis happens on your
-device, and **your photos never leave it**.
+PhotoOne is a photo-library cleaner that works entirely on your device.
 
-**What we collect: nothing.** PhotoOne has no servers, no account system and
-no analytics. The developer never receives your photos or any information
-about you.
-
-**Optional video ads (free plan only).** On the free plan you can choose to
-watch a short video ad to get extra free cleanups. This is the only time
-PhotoOne goes online, and only when you tap "Watch a video". Ads are provided
-by Google AdMob. When a video is requested, Google receives data from your
-device: your advertising identifier (on iPhone only if you allow tracking),
-your IP address (from which an approximate location can be worked out),
-device and app information, and how you interact with the ad. Google uses
-this to show ads, measure them, prevent fraud and, where you have agreed,
-personalise them. Google's handling of this data is described at
-https://policies.google.com/technologies/partner-sites. Your photos and the
-results of PhotoOne's analysis are never shared with Google or anyone else.
-
-- **Your choices about ads:** you never have to watch a video. On iPhone you
-  can refuse tracking when asked, or later in Settings › Privacy & Security ›
-  Tracking. In the EEA, UK and Switzerland you are asked for consent first and
-  can change it any time in PhotoOne › Settings › Ad privacy choices. On
-  Android you can reset or delete your advertising ID in your phone's
-  settings.
-- **PhotoOne Pro has no ads.** Pro users never load the ad system.
+**What we collect: nothing.** PhotoOne has no servers, no account system, no
+analytics and no advertising. On Android the app does not request internet
+permission; on iOS it makes no network requests.
 
 **iCloud Photos.** On iPhone, PhotoOne works on your Photos library through
 Apple's PhotoKit. If iCloud Photos is on, Apple's system downloads any image
@@ -45,7 +24,7 @@ the text says.
 **Changes to your library.** PhotoOne only deletes photos after you confirm,
 using your phone's system dialog; deleted photos go to Recently Deleted
 (iOS) or Trash (Android 11+). New photos and videos it creates (Best Take,
-Space Saver) are saved to your library as new items, keeping the original's
+Space Saver, Live Photo edits) are saved to your library as new items, keeping the original's
 date, location and favourite status; originals are only removed after you
 confirm in the system dialog.
 
@@ -65,8 +44,7 @@ payment details.
 new bursts on your device and shows a local notification. Nothing is sent
 anywhere.
 
-**Children.** PhotoOne is not directed at children. The developer does not
-collect data from anyone, including children.
+**Children.** PhotoOne does not collect data from anyone, including children.
 
 **Contact.** PhotoOne is published by Amakat Solutions. Questions about this
 policy: amakatsolutions@gmail.com
