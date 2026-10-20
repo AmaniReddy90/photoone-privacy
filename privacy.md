@@ -68,4 +68,5 @@ anywhere.
 **Children.** PhotoOne is not directed at children. The developer does not
 collect data from anyone, including children.
 
-**Contact.** Questions about this policy: amani.reddy90@gmail.com
+**Contact.** PhotoOne is published by Amakat Solutions. Questions about this
+policy: amakatsolutions@gmail.com
