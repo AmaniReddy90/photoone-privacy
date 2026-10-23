@@ -1,6 +1,6 @@
 # PhotoOne Privacy Policy
 
-_Last updated: 20 October 2026_
+_Last updated: 23 October 2026_
 
 PhotoOne is a photo-library cleaner that works entirely on your device.
 
@@ -27,6 +27,22 @@ using your phone's system dialog; deleted photos go to Recently Deleted
 Space Saver, Live Photo edits) are saved to your library as new items, keeping the original's
 date, location and favourite status; originals are only removed after you
 confirm in the system dialog.
+
+**Contacts, calendar, files and apps (only if you use these cleanups).**
+With your permission, PhotoOne reads your contacts to find duplicates and
+cards with no phone or email, your calendar to find old past events, a folder
+you choose to find large and duplicate files, and — on Android, if you allow
+Usage access — which apps you have installed, how much space they use and
+when you last opened them. All of this is read on your device and never
+leaves it. Before contacts or events are changed, a backup file is saved in
+PhotoOne's private storage on your device; you can share it yourself if you
+want a copy elsewhere.
+
+**Private vault.** Photos and videos you move to the vault are copied into
+PhotoOne's private storage on your device and protected by your device's
+Face ID, fingerprint or passcode. They are included in your device's own
+backup but are not uploaded anywhere by PhotoOne, and deleting the app
+deletes them.
 
 **Sharing.** "Share without location" makes a temporary copy of the photo with
 its GPS location removed and hands it to your phone's share sheet. It goes
